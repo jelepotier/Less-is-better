@@ -1,4 +1,4 @@
-# Le projet
+# Le projet #
 ### De quoi s'agit-il ? ###
 Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les personnes qui partagent notre vie. C'est le declencheur d'une reflexion collective pour continuer à concrétiser ce qui a du sens pour nous. Ce projet prend donc différentes facettes en fonction de la nature de chacun. Il nous amène à faire preuve de créativité pour trouver de la cohérence et préserver les relations.
 
@@ -7,6 +7,7 @@ Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les 
 ### qui est concerné par ce projet ? ###
 * Sandrine et Jérôme en tant qu'initiateurs, concepteurs, réalisateurs et acteurs du projet.
 * Nos enfants respectifs, qui après avoir donné leur accord explicite, sont parties prenantes et acteurs ponctuels.
+
 ### Pourquoi ce projet ###
 Pour nous recentrer sur ce qui nous parait essentiel c'est à dire : 
 1. **Cohérence** par rapport à nos valeurs, nos aspirations. L'idée est d'incarner le changement que nous souhaitons voir se produire dans le monde.
@@ -16,6 +17,7 @@ Pour nous recentrer sur ce qui nous parait essentiel c'est à dire :
 6. (Pour Jérôme) **Utiliser mes capacités physiques**, J'ai la chance d'être en pleine forme et d'avoir des prédispositions pour les efforts longs, autant les mettre au service d'un projet générateur de joie.
 7. (Pour Sandrine) **Développer mes capacités créatives.**
 8. **La spiritualité** véritable fils rouge de notre vie.
+
 ### Les fondements du projet ###
 Si nous devions résumer ce projet en une phrase, ce serait : **"Moins c'est mieux"**
 | Moins            | Plus           |
@@ -31,14 +33,13 @@ Mais aussi
 * moins de déchet,
 * moins de consommation d'eau,
 * moins de consommation d'énergie,
-
 et 
 * Un lieu d'habitation fixe ultra simple qui devra nous permettre d'accueillir nos enfants.
 * pas de voiture.
 * pas de haute technologie.
-
 et toujours
 * Régime végétarien.
+
 ### Le projet ###
 Equilibre entre ancrage et nomadisme. L'alternance de ces deux phases distinctes, permet de rester dans le monde tout en prenant régulièrement du recul pour réfléchir et préserver la cohérence et la pertinence de nos actions par rapport à nos aspirations.
 * **Dans les phases sédentaires**,
@@ -53,6 +54,7 @@ Equilibre entre ancrage et nomadisme. L'alternance de ces deux phases distinctes
 Le rythme des alternances se fera en fonction des saisons.
 * Fin de l'hiver, printemps, été et automne, phase sédentaire pour travailler, mais aussi planter, cultiver et récolter.
 * Fin de l'automne jusque fin février, phase nomade pour partir à la rencontre de personnes qui ont des modes de vie comparables. Echanger et enrichir notre fonctionnement.
+
 ### Pourquoi choisir le bâteau ? ###
 * Pour Sandrine et Jérôme :
     * Parce que le bateau à voile (acheté d'occasion) permet de se loger, de se deplacer et de vivre au quotidien, tout en ayant un impact minime sur la planète. Cela reste donc cohérent avec le projet global.
@@ -61,6 +63,7 @@ Le rythme des alternances se fera en fonction des saisons.
 * Pour Jérôme :
     * Parce que les différentes expériences de navigation que j'ai pu avoir, m'ont litéralement transportées physiquement, mentalement et émotionnellement. J'ai envie de renouer avec ces sensations.
     * Parce que j'ai eu la chance de pratiquer pendant 10 ans la haute montagne. J'en garde des souvenirs intenses et des liens profonds.... La mer et l'océan sont des éléments du même acabit. 
+
 ### un projet engagé ###
 "Moins c'est mieux".
 Que les choses soient claires. Nous réalisons ce projet parce qu'il a du sens pour nous. Nous ne souhaitons ni donner des leçons, ni convaincre qui que ce soit d'aller dans le même sens.
@@ -70,7 +73,6 @@ Si nous continuons logiquement notre raisonnement, cela veut dire que nous avons
 Etant conscient de ce principe, nous souhaitons prendre position de manière affirmée, en ajusant au mieux notre mode de vie et nos comportements par rapport à nos valeurs.
 
 ### La chronologie ###
-
 Au niveau du calendrier : 
 *  **Septembre 2022** :
     *  prévoir la fin des travaux de la maison dans la perspective de la vente : volets, escalier et palier du premier étage, finitions.
