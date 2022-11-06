@@ -2,4 +2,4 @@
 
 ## pour attribuer un thème
 
-- créer un fichier * config.yml *
+- créer un fichier *config.yml*
