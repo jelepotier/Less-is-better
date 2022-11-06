@@ -1,3 +1,3 @@
 # Qui sommes nous ? #
-## Sandrine ##
-## Jérome ##
+### Sandrine ###
+### Jérome ###
