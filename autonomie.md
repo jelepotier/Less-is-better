@@ -1,5 +1,5 @@
 # Notre vision de l'autonomie
-## Préanbule ##
+## Préanbule
 Nous souhaitons tendre vers l'autonomie, cela veut dire :
 1. Que nous ne sommes pas autonomes,
 2. Que l'atteinte de l'autonomie n'est pas un but en soi. Il s'agit d'un cheminement ou l'équilibre, la sérénité et la joie, sont les piliers qui soutiennent nos choix.
@@ -11,13 +11,13 @@ Dans cette recherche d'autonomie, nous allons donc naturellement nous centrer su
 Il est important de comprendre que nous ne partons pas en croisade pour convaincre des personnes à développer leur autonomie. Nous allons réaliser ce projet pour nous-mêmes, parce qu'il a du sens pour nous.
 Si nous communiquons sur ce sujet via notre site Internet ou lors de rencontres, c'est pour partager, le plus objectivement possible, les éléments qui jalonnent notre parcours. Si cela peut servir à certain(es) tant mieux.
 
-## Les secteurs concernés par notre démarche ##
+## Les secteurs concernés par notre démarche
 * Le secteurs financier
 * Le secteur énergétique
 * Le secteur alimentaire
 * Le secteur personnel
 
-### L'autonomie financière ###
+### L'autonomie financière
 Le premier pas que nous effectuerons dans ce domaine, concerne les emprunts. Dans la réalisation de notre projet, nous finançons par nous-mêmes tous les élements dont nous avons besoin.
 Nous préférons apprendre à nous passer de certaines choses, plutôt que souscrire une dette auprès d'une banque ou d'une tierce personne.
 En effet, nous ressentons que les mensualités de remboursement pèsent plus sur notre manière de vivre, que ce qu'elles peuvent apporter comme avantages.
@@ -29,7 +29,7 @@ Ceci dit, si certains(es) d'entre vous souhaitez contribuer à notre projet d'un
 Des aménagements dans notre projet initial devront sans doute voir le jour. En effet, nos premières démarches pour trouver un terrain, en utilisant les réseaux classiques (Internet, Agence) nous montrent que nous ne parviendrons pas à sortir du financement bancaire, tellement les prix sont élevés.
 Il apparait évident que nous allons devoir modifier notre cadre de référence pour parvenir à nos fins.
 
-### L'autonomie énergétique ###
+### L'autonomie énergétique
 Ce que nous mettons sous ce titre concerne l'électicité, l'eau, le chauffage ainsi que tout ce qui touche à la viabilité de notre habitat et notamment la gestion des eaux usées.
 Nous n'avons pas encore posé notre dévolu sur telle ou telle possibilité, mais nous développerons l'ensemble des solutions dès que nous serons fixés.
 Sont à l'étude : 
@@ -40,12 +40,12 @@ Sont à l'étude :
 * différents systèmes d'assainissements et de réutilisation des eaux dites "grises" (eaux de vaisselle, de machine à laver le linge)
 * l'utilisation d'un poêle à inertie pour le chauffage.
 
-### L'autonomie alimentaire ###
+### L'autonomie alimentaire
 Nous souhaitons travailler la terre afin de pouvoir subvenir à un maximum de nos besoins en terme de nourriture.
 Il nous parait peu probable d'atteindre l'autonomie complète, mais nous voulons apprendre à cultiver un maximum de légumes pour les consommer.
 A la culture, nous allons aussi 
 
-### L'autonomie personnelle ###
+### L'autonomie personnelle
 C'est sans aucun doute le point le plus important, mais aussi le plus compliqué.
 Il s'agit d'autonomie affective, ou comment rester en relation sans que cette dernière ne soit polluée par nos besoins vis à vis de l'autre (besoin de reconnaissance, d'attention, d'amour...)
 
