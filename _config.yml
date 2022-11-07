@@ -3,4 +3,4 @@ minima:
   skin: dark
 header_pages:
   - autonomie.md
-  - readme.md
+  - README.md
