@@ -1,5 +1,5 @@
-# Le projet #
-### De quoi s'agit-il ? ###
+# Le projet
+### De quoi s'agit-il ?
 Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les personnes qui partagent notre vie. C'est le declencheur d'une reflexion collective pour continuer à concrétiser ce qui a du sens pour nous. Ce projet prend donc différentes facettes en fonction de la nature de chacun. Il nous amène à faire preuve de créativité pour trouver de la cohérence et préserver les relations.
 
 * Jérôme : Ce projet s'inscrit dans ce que je perçois de la société, un positionnement affirmé et assumé face à l'actualité, une contribution en réponse au défi climatique. De manière plus personnelle, il s'agit de faire confiance et de suivre le courrant de mon enthousiasme.
@@ -8,7 +8,7 @@ Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les 
 * Sandrine et Jérôme en tant qu'initiateurs, concepteurs, réalisateurs et acteurs du projet.
 * Nos enfants respectifs, qui après avoir donné leur accord explicite, sont parties prenantes et acteurs ponctuels.
 
-### Pourquoi ce projet ###
+### Pourquoi ce projet
 Pour nous recentrer sur ce qui nous parait essentiel c'est à dire : 
 1. **Cohérence** par rapport à nos valeurs, nos aspirations. L'idée est d'incarner le changement que nous souhaitons voir se produire dans le monde.
 2. **La complicité et la profondeur** sur le plan relationnel. Que ce soit au sein du couple, de la famille, des amis ou des rencontres. Vivre des échanges simples et authentiques.
@@ -18,7 +18,7 @@ Pour nous recentrer sur ce qui nous parait essentiel c'est à dire :
 7. (Pour Sandrine) **Développer mes capacités créatives.**
 8. **La spiritualité** véritable fils rouge de notre vie.
 
-### Les fondements du projet ###
+### Les fondements du projet
 Si nous devions résumer ce projet en une phrase, ce serait : **"Moins c'est mieux"**
 | Moins            | Plus           |
 |:---------------- |:-------------- |
@@ -40,7 +40,7 @@ et
 et toujours
 * Régime végétarien.
 
-### Le projet ###
+### Le projet
 Equilibre entre ancrage et nomadisme. L'alternance de ces deux phases distinctes, permet de rester dans le monde tout en prenant régulièrement du recul pour réfléchir et préserver la cohérence et la pertinence de nos actions par rapport à nos aspirations.
 * **Dans les phases sédentaires**,
     * Vivre dans une habitation simple, au sein d'un cadre naturel, calme et inspirant, qui doit nous permettre d'acceuillir nos enfants.
@@ -55,7 +55,7 @@ Le rythme des alternances se fera en fonction des saisons.
 * Fin de l'hiver, printemps, été et automne, phase sédentaire pour travailler, mais aussi planter, cultiver et récolter.
 * Fin de l'automne jusque fin février, phase nomade pour partir à la rencontre de personnes qui ont des modes de vie comparables. Echanger et enrichir notre fonctionnement.
 
-### Pourquoi choisir le bâteau ? ###
+### Pourquoi choisir le bâteau ?
 * Pour Sandrine et Jérôme :
     * Parce que le bateau à voile (acheté d'occasion) permet de se loger, de se deplacer et de vivre au quotidien, tout en ayant un impact minime sur la planète. Cela reste donc cohérent avec le projet global.
     * Parce que la navigation représente à nos yeux une des métaphores de la vie. Seul, en couple ou en famille, c'est l'occasion de mettre en lumière les fonctionnements, mais aussi les dysfonctionnements qui peuvent s'imisser dans nos vies, et donc, de les corriger.
@@ -64,7 +64,7 @@ Le rythme des alternances se fera en fonction des saisons.
     * Parce que les différentes expériences de navigation que j'ai pu avoir, m'ont litéralement transportées physiquement, mentalement et émotionnellement. J'ai envie de renouer avec ces sensations.
     * Parce que j'ai eu la chance de pratiquer pendant 10 ans la haute montagne. J'en garde des souvenirs intenses et des liens profonds.... La mer et l'océan sont des éléments du même acabit. 
 
-### un projet engagé ###
+### un projet engagé
 "Moins c'est mieux".
 Que les choses soient claires. Nous réalisons ce projet parce qu'il a du sens pour nous. Nous ne souhaitons ni donner des leçons, ni convaincre qui que ce soit d'aller dans le même sens.
 Nous sommes intimement convaincus que toutes nos actions impactent d'une manière ou d'une autre nos propres personnes, nos relations, l'environnement.
@@ -72,7 +72,7 @@ Par conséquent, que nous le voulions ou non, il apparaît que nous sommes tous 
 Si nous continuons logiquement notre raisonnement, cela veut dire que nous avons une part de responsabilité dans tout ce qui se passe dans le monde.
 Etant conscient de ce principe, nous souhaitons prendre position de manière affirmée, en ajusant au mieux notre mode de vie et nos comportements par rapport à nos valeurs.
 
-### La chronologie ###
+### La chronologie
 Au niveau du calendrier : 
 *  **Septembre 2022** :
     *  prévoir la fin des travaux de la maison dans la perspective de la vente : volets, escalier et palier du premier étage, finitions.
