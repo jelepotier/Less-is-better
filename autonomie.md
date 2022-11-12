@@ -1,4 +1,9 @@
-# Notre vision de l'autonomie
+---
+layout: page
+title: Notre vision de l'autonomie
+permalink: /vision/
+---
+
 ## Préanbule
 Nous souhaitons tendre vers l'autonomie, cela veut dire :
 1. Que nous ne sommes pas autonomes,
