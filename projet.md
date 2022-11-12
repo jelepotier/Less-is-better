@@ -4,8 +4,6 @@ title: Le projet de Jé et Sandrine
 permalink: /le-projet/
 ---
 
-# Le projet
-
 ### De quoi s'agit-il ?
 Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les personnes qui partagent notre vie. C'est le declencheur d'une reflexion collective pour continuer à concrétiser ce qui a du sens pour nous. Ce projet prend donc différentes facettes en fonction de la nature de chacun. Il nous amène à faire preuve de créativité pour trouver de la cohérence et préserver les relations.
 
@@ -20,10 +18,10 @@ Pour nous recentrer sur ce qui nous parait essentiel c'est à dire :
 1. **Cohérence** par rapport à nos valeurs, nos aspirations. L'idée est d'incarner le changement que nous souhaitons voir se produire dans le monde.
 2. **La complicité et la profondeur** sur le plan relationnel. Que ce soit au sein du couple, de la famille, des amis ou des rencontres. Vivre des échanges simples et authentiques.
 3. **La nature**, c'est à dire un environnement dans lequel nous puissions nous ressourcer, nous immerger. Un environnement que nous puissions également observer et apprendre à respecter encore plus.
-5. **La simplicité**. Surtout dans le mode de vie. Simplicité dans le lieu d'habitation, dans le mobilier et le matériel environnant. Aller à l'essentiel en privilégiant le vide par rapport au plein.
-6. (Pour Jérôme) **Utiliser mes capacités physiques**, J'ai la chance d'être en pleine forme et d'avoir des prédispositions pour les efforts longs, autant les mettre au service d'un projet générateur de joie.
-7. (Pour Sandrine) **Développer mes capacités créatives.**
-8. **La spiritualité** véritable fils rouge de notre vie.
+4. **La simplicité**. Surtout dans le mode de vie. Simplicité dans le lieu d'habitation, dans le mobilier et le matériel environnant. Aller à l'essentiel en privilégiant le vide par rapport au plein.
+5. (Pour Jérôme) **Utiliser mes capacités physiques**, J'ai la chance d'être en pleine forme et d'avoir des prédispositions pour les efforts longs, autant les mettre au service d'un projet générateur de joie.
+6. (Pour Sandrine) **Développer mes capacités créatives.**
+7. **La spiritualité** véritable fils rouge de notre vie.
 
 ### Les fondements du projet
 Si nous devions résumer ce projet en une phrase, ce serait : **"Moins c'est mieux"**
