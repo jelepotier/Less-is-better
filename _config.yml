@@ -1,5 +1,10 @@
 theme: minima
-skin: dark
+title: Moins c'est mieux
+author:
+  name: Jé et Sandrine
+  email: je@truc.com
+description: >
+  Projet de Jé et Sandrine ...
 header_pages:
   - autonomie.md
   - projet.md
