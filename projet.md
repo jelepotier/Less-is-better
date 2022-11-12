@@ -1,4 +1,11 @@
+---
+layout: page
+title: Le projet de Jé et Sandrine
+permalink: /le-projet/
+---
+
 # Le projet
+
 ### De quoi s'agit-il ?
 Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les personnes qui partagent notre vie. C'est le declencheur d'une reflexion collective pour continuer à concrétiser ce qui a du sens pour nous. Ce projet prend donc différentes facettes en fonction de la nature de chacun. Il nous amène à faire preuve de créativité pour trouver de la cohérence et préserver les relations.
 
