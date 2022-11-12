@@ -4,7 +4,7 @@ title: Notre vision de l'autonomie
 permalink: /vision/
 ---
 
-## Préanbule
+## Préambule
 Nous souhaitons tendre vers l'autonomie, cela veut dire :
 1. Que nous ne sommes pas autonomes,
 2. Que l'atteinte de l'autonomie n'est pas un but en soi. Il s'agit d'un cheminement ou l'équilibre, la sérénité et la joie, sont les piliers qui soutiennent nos choix.
