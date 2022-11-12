@@ -1,6 +1,5 @@
 theme: minima
-minima:
-  skin: dark
+skin: dark
 header_pages:
   - autonomie.md
   - projet.md
