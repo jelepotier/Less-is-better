@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le projet de Jé et Sandrine
+title: Le projet
 permalink: /le-projet/
 ---
 
