@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L'autonomie
-permalink: /vision/
+permalink: /autonomie/
 ---
 
 ## Préambule
