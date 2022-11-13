@@ -1,14 +1,14 @@
 theme: minima
 minima:
   skin: dark
+minima:
+  date_format: "%b %-d, %Y"
 title: Moins c'est mieux
 author: Jé
   name: Jérôme et Sandrine
   email: mcm@gmail.com
 description: >
   Projet de couple vers une vie plus proche de nos aspirations !
-minima:
-  date_format: "%b %-d, %Y"
 header_pages:
   - autonomie.md
   - projet.md
