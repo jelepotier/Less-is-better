@@ -1,14 +1,19 @@
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minima
 
 title: Moins c'est mieux
-author:
-  name: Jé et Sandrine
-  email: je@truc.com
+author: Jé
+  name: Jérôme et Sandrine
+  email: mcm@gmail.com
 description: >
-  Projet de Jé et Sandrine ...
+  Projet de couple vers une vie plus proche de nos aspirations !
+  
+minima:
+  date_format: "%b %-d, %Y"
+  
 header_pages:
   - autonomie.md
   - projet.md
 
 plugins:
-  - jekyll-remote-theme
+ - jekyll-feed
+ - jekyll-seo-tag
