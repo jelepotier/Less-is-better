@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nous aider
+title: S'entraider
 permalink: /aide/
 ---
 
