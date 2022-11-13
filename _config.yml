@@ -13,7 +13,3 @@ minima:
 header_pages:
   - autonomie.md
   - projet.md
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
