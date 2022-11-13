@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: dark
 title: Moins c'est mieux
 author: Jé
   name: Jérôme et Sandrine
