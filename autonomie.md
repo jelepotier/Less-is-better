@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notre vision de l'autonomie
+title: L'autonomie
 permalink: /vision/
 ---
 
