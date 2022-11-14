@@ -10,7 +10,7 @@ Parce que autonomie ne rime pas avec isolement et que le partage fait partie de 
 Les différentes expériences passées à aider les autres nous ont véritablement fait grandir. Si nous réflechissons bien, ce que nous sommes aujourd'hui, nous le devons à toutes ces personnes qui ont croisé notre route et qui nous ont permis d'évoluer. Un grand merci donc !
 
 ### Nos besoins
-A l'heure actuelle, notre besoin est de trouver un terrain qui peut nous acueillir et sur lequel nous allons pouvoir poser notre tiny housse.
+A l'heure actuelle, notre besoin est de trouver un terrain qui peut nous acueillir et sur lequel nous allons pouvoir poser notre tiny housse. Nous recherchons un terrain agricole de 0,5 à 1 hectar, arboré et avec un cours d'eau, aux alentours de Dax (dans une rayon d'1h30 en voiture)...
 
 ### Nos compétences à disposition.
 Cette liste s'agrandira au fur et à mesure de notre progression, avec notamment la possibilité de partager nos acquis dans la fabrication d'objets "low-tech"
