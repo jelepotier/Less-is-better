@@ -9,7 +9,8 @@ Il s'agit d'un projet qui s'inscrit dans une démarche de concertation avec les 
 
 * Jérôme : Ce projet s'inscrit dans ce que je perçois de la société, un positionnement affirmé et assumé face à l'actualité, une contribution en réponse au défi climatique. De manière plus personnelle, il s'agit de faire confiance et de suivre le courrant de mon enthousiasme.
 * Sandrine : J’ai bientôt 50 ans et je souhaite vivre au plus près de mes aspirations. C’est important, aujourd’hui, car mes envies/besoins changent. Au travers de ce projet, je recherche plus de sérénité et plus de liberté dans l'utilisation de mon temps. 
-### qui est concerné par ce projet ? ###
+
+### qui est concerné par ce projet ?
 * Sandrine et Jérôme en tant qu'initiateurs, concepteurs, réalisateurs et acteurs du projet.
 * Nos enfants respectifs, qui après avoir donné leur accord explicite, sont parties prenantes et acteurs ponctuels.
 
