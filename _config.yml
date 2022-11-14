@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: solarized-light
 gems:
   - jekyll-layouts
 title: Moins c'est mieux
@@ -7,8 +9,6 @@ author:
   email: mcm@gmail.com
 description: >
   Projet de couple vers une vie plus proche de nos aspirations !
-minima:
-  skin: solarized-light
 header_pages:
   - projet.md
   - autonomie.md
