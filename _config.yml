@@ -8,7 +8,7 @@ author:
 description: >
   Projet de couple vers une vie plus proche de nos aspirations !
 minima:
-  skins: solarized-light
+  skin: solarized-light
 header_pages:
   - projet.md
   - autonomie.md
