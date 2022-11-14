@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Mais pourquoi ?
+## Mais pourquoi ?
 
 Parce que nous souhaitons : 
 - Donner du sens à nos vies respectives en posant des actions concrètes.
