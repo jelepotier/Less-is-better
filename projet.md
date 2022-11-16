@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le projet
+title: Notre projet
 permalink: /le-projet/
 ---
 
