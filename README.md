@@ -1,4 +1,4 @@
-# Visio du projet
+# Vision du projet
 
 ## Technique
 - github
