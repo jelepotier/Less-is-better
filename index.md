@@ -9,3 +9,4 @@ Parce que nous souhaitons :
 - Cheminer ensemble vers l'harmonie.
 - Trouver l'équilibre entre la voix de la raison et celle du coeur.
 - Placer la pratique au centre.
+- test.

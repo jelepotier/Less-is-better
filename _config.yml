@@ -1,8 +1,6 @@
 theme: minima
 minima:
   skin: solarized-light
-gems:
-  - jekyll-layouts
 title: Moins c'est mieux
 author:
   name: Sandrine et Jérôme
